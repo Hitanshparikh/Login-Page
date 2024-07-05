@@ -7,7 +7,7 @@ body {
     margin: 0;
     background-color: #121212;
     background-image: url('./neon.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: center;
 }
 
