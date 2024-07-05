@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #121212;
-    background-image: url('\neon.jpg');
+    background-image: url('.\neon.jpg');
     background-size: contain;
     background-position: center;
 }
