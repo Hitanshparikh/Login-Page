@@ -6,7 +6,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #121212;
-    background-image: url('https://github.com/Hitanshparikh/Login-Page/blob/d5b38742caf71e925d851bf82649c824f142f19c/neon.jpg');
+    background-image: url('./neon.jpg');
     background-size: contain;
     background-position: center;
 }
